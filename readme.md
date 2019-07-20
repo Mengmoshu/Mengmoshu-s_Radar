@@ -13,10 +13,9 @@ Adds new radars with different balances of scan ranges and costs. Also includes 
   - Search only. Same range as Search Radar. Double energy cost per chunk searched.
 
 ### Settings
-* Base Linear Range (int)
-  - Manhattan radius.
-* Base Energy Multiplier (float)
-* Recipe Multiplier (float)
+* Global Range Multiplier
+* Base Energy Multiplier
+* Recipe Multiplier
 * Per Type Adjustments
   - Ranges, Energy costs, Recipe Cost.
   - No per type disable. Just don't build them!
