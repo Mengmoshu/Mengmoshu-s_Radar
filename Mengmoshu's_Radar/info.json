@@ -1,0 +1,11 @@
+{
+  "name": "Mengmoshu's_Radar",
+  "version": "0.0.1",
+  "title": "Mengmoshu's Radar",
+  "author": "Mengmoshu",
+  "contact": "https://github.com/Mengmoshu/Mengmoshu-s_Radar",
+  "description": "Adds radars with different scan and search ranges.",
+  "dependencies": ["base"],
+  "license": "MIT",
+  "factorio_version": "1.1"
+} 

@@ -10,7 +10,7 @@ Adds new radars with different balances of scan ranges and costs. Also includes 
 * Awareness(?) Radar
   - No search range. Larger than Generic constant scan.
 * High Speed Radar
-  - Search only. Same range as Search Radar. Double energy cost per chunk searched.
+  - Search only. Same range as Search Radar. Double energy cost per chunk searched, double scan speed.
 
 ### Settings
 * Global Range Multiplier
